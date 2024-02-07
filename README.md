@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Carson-Spaniel
 - 👀 I’m interested in Software Engineering
-- 🌱 I’m currently learning Computer Science at Texas Tech University
+- 🌱 I’m currently learning about REST APIs
 - 📫 How to reach me...
   -    email: carsonspaniel@gmail.com
   -    linkedin: https://www.linkedin.com/in/carson-spaniel/

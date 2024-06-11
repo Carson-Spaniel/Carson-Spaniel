@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Carson-Spaniel
 - 🌱 I’m currently learning about Cryptology/Cybersecurity
 - 📫 How to reach me...
-  -    email: carsonspaniel@gmail.com
   -    linkedin: https://www.linkedin.com/in/carson-spaniel/
 
 <!---
